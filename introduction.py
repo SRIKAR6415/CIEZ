@@ -1,0 +1,8 @@
+print("================================")
+print("          PROJECT CIEZ")
+print("================================")
+print("Name: CIEZ")
+print("Type: Personal AI Assistant")
+print("Language: Python")
+print("Status: Under Development")
+print("================================")
